@@ -452,6 +452,8 @@ footer a:hover{
         width: 70px;
         padding-left: 0;
     }
+    #feature .fe-box{
+        width: 180px;
     #hero{
         padding: 0 20px;
         background-repeat: no-repeat;
